@@ -1,6 +1,6 @@
 
 Working with numerical algorithms for molecular dynamics (MD) computer simulations and 
-simulations of supercooled liquids and glasses. Articles: 27. Citations: 775. h-index: 15.
+simulations of supercooled liquids and glasses.
 
 Lead-developed high-performance GPU code in CUDA C++ for millisecond MD computer simulations 
 (RUMD project). Experience with CUDA implementation of Monte Carlo, Langevin, free-energy 
@@ -12,3 +12,6 @@ C++, CUDA. Performance optimizations, scientific computing, library development,
 
 Websites:
 www.linkedin.com/in/trond-sylvan-ingebrigtsen
+
+Scientific output:
+Articles: 27. Citations: 787. h-index: 15.
