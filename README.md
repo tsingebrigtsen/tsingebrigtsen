@@ -1,9 +1,11 @@
-Interests: 
-C++, CUDA. Physics, performance optimizations, scientific computing, library development, and more.
+Welcomes intellectual and stimulating challenges.
 
-Websites:
-https://www.linkedin.com/in/trond-sylvan-ingebrigtsen
+Interests: 
+Modern C++, CUDA C++. Physics, scientific computing, numerical algorithms, template metaprogramming, etc.
+
+Development: 
+https://github.com/tsingebrigtsen
 
 Scientific output:
 http://trondingebrigtsen.com
-Articles: 27. Citations: 787. h-index: 15.
+Articles: 27. Citations: 800. h-index: 15.
